@@ -18,6 +18,7 @@ seo.php：处理 SEO 相关的功能，如设置页面标题、关键词、描�
 og.php：用于处理 Open Graph 协议相关的设置，优化社交媒体分享展示。
 404set.php：设置 404 页面的相关逻辑和内容。
 # 核心组织结构
+```plaintext
 ├── index.php                # 主入口文件
 ├── functions.php            # 核心功能函数
 ├── header.php              # 页面头部
